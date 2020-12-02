@@ -55,9 +55,9 @@ hr {
   margin-bottom: 75px;
 }
 
-#jaimes-face {
+#zach-and-jaime {
   width: 300px;
-  height: 300px;
+  height: 400px;
 }
 
 a {
@@ -111,4 +111,9 @@ footer {
 .btn:active {
   position: relative;
   top: 1px;
+}
+
+#bear-friend-gif {
+  width: 200px;
+  height: 200px;
 }
